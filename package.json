@@ -1,13 +1,13 @@
 {
-  "name": "blockchain-tracker-example",
+  "name": "crypto-gateway",
   "version": "1.0.0",
-  "description": "An accompanying example for the article",
+  "description": "a crypto gateway",
   "main": "index.js",
   "scripts": {
     "start": "nodemon src/index.js"
   },
   "keywords": [],
-  "author": "Dmitry Semenovskiy <dsemenovsky@gmail.com>",
+  "author": "drfelfel <felfelpardaz@gmail.com>",
   "license": "",
   "dependencies": {
     "decimal.js": "^7.2.4",
