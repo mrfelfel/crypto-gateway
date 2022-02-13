@@ -1,17 +1,11 @@
-# Blockchain tracker example
-Tracks Ether and Token transfers for given wallets and amount. [Read more on Medium](https://medium.com/pixelpoint/track-blockchain-transactions-like-a-boss-with-web3-js-c149045ca9bf).
+# Crypto Gateway
+a crypto payment gateway
 
 ## Requirements
-- [Node 8+](https://nodejs.org/en/)
+- [Node 12+](https://nodejs.org/en/)
 - [Yarn (optional)](https://yarnpkg.com/en/)
 
 ## Setup
-
-```
-git clone git@github.com:dsemenovsky/blockchain-tracker-example.git
-cd blockchain-tracker-example
-yarn install
-```
 
 Fill .env from .env.example with the token contract address, wallets and amount.
 Pluton token contract is provided for this example.
